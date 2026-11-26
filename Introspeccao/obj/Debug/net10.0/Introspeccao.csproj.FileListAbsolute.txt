@@ -1,0 +1,10 @@
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/bin/Debug/net10.0/Introspeccao
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/bin/Debug/net10.0/Introspeccao.dll
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/bin/Debug/net10.0/Introspeccao.pdb
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/Introspeccao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/Introspeccao.AssemblyInfoInputs.cache
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/Introspeccao.AssemblyInfo.cs
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/Introspeccao.csproj.CoreCompileInputs.cache
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/Introspeccao.dll
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/refint/Introspeccao.dll
+/Users/marcodev/Desktop/S05 Projeto Programa de Introspecção/Introspeccao/obj/Debug/net10.0/Introspeccao.pdb
